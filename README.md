@@ -1,3 +1,4 @@
+<h1>👨‍💻 Hello, I'm Prasad Hase!</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on:<br>Java Full Stack projects using Spring Boot, JSP, Servlets, Hibernate, MySQL, and React to build scalable web applications.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects related to Java, Spring Boot, Full Stack Development, REST APIs, and real-world web applications.<br><br>🆘 I’m looking for help with:<br>Microservices architecture, cloud deployment, system design, and advanced backend development.<br><br>🌱 I’m currently learning:<br>Spring Boot, React, REST APIs, Microservices, Data Structures & Algorithms, and modern software development practices.<br><br>💬 Ask me about:<br>Java, Spring Boot, JSP, Servlets, Hibernate, MySQL, HTML, CSS, JavaScript, React, Git, and GitHub.<br><br>⚡ Fun fact:<br>I enjoy building projects from scratch and continuously exploring new technologies to improve my development skills.<br><br>
